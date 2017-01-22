@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
+
+<br /><br /><br />
+<a href="lista-contatos.jsp">Lista Contatos </a> | 
+<a href="adiciona-contato.jsp">Adiciona contato </a> | 
 <hr />
 Copyright 2010 - Todos os direitos reservados
 </body>

@@ -12,7 +12,6 @@
 <link href="css/jquery.css" rel="stylesheet">
 <script src="js/jquery.js"></script>
 <script src="js/jquery-ui.js"></script>
-<meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
 <body>
@@ -24,7 +23,7 @@
 <form action="adicionarContato">
 Nome: <input type="text" name="nome" /><br />
 E-mail: <input type="text" name="email" /><br />
-EndereÃ§o: <input type="text" name="endereco" /><br />
+Endereço: <input type="text" name="endereco" /><br />
 <!-- Data Nascimento: <input type="text" name="dataNascimento" /><br /> -->
 Data Nascimento: <caelum:campoData id="dataNascimento" /><br />
 <input type="submit" value="Insere" /><br />
